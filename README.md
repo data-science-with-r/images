@@ -2,5 +2,6 @@
 
 Datasets for Data Science with R specialization:
 
-![](https://data-science-with-r.github.io/images/gapminder-co2-question.png){width=300}
-![](https://data-science-with-r.github.io/images/gapminder-co2-answers.png){width=300}
+- [`gapminder-co2-question.png`](https://data-science-with-r.github.io/images/gapminder-co2-question.png)
+- [`gapminder-co2-answers.png`](https://data-science-with-r.github.io/images/gapminder-co2-question.png)
+- [`population-summary-lollipop`](https://data-science-with-r.github.io/images/population-summary-lollipop.png)
