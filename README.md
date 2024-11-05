@@ -7,3 +7,5 @@ Datasets for Data Science with R specialization:
 - [`population-summary-lollipop`](https://data-science-with-r.github.io/images/population-summary-lollipop.png)
 - [`country-populations-years`](https://data-science-with-r.github.io/images/country-populations-years.png)
 - [`sector-services`](https://data-science-with-r.github.io/images/sector-services.png)
+
+GitHub repository: <https://github.com/data-science-with-r/images>.
